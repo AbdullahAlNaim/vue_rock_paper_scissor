@@ -6,8 +6,7 @@ import Moves from "./Moves.vue"
 <template>
   <section class="results">
     <h2>Results</h2>
-    <p></p>
-    <Moves />
+    <p >{{ win }}</p>
   </section>
 </template>
 

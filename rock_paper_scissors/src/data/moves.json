@@ -1,0 +1,14 @@
+[
+  {
+    "name": "rock",
+    "image": "./src/assets/rock.png"
+  },
+  {
+    "name": "paper",
+    "image": "./src/assets/p6.png"
+  },
+  {
+    "name": "scissor",
+    "image": "./src/assets/scis.png"
+  }
+]

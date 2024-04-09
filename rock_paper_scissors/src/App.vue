@@ -10,7 +10,6 @@ import Results from "./components/Results.vue"
   <main>
     <h1>Rock Paper Scissors</h1>
     <Moves />
-    <Results />
   </main>
 </template>
 
